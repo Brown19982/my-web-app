@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mPOS105
+Build-Jdk: 11.0.14.1
+Implementation-Title: my-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: idv.matt
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
